@@ -1,0 +1,14 @@
+h1{
+    font-size: 100px;
+}
+#violeta{
+    background-color: red;
+    color: rgb(60,50, 5, 40);
+}
+div{
+    color: rgb(148, 42, 219);
+    background-color: rgb(214, 138, 39);
+}
+body{
+    background-color: rgb(168, 108, 145);
+}
